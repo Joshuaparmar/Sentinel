@@ -1,0 +1,10 @@
+{
+  "fusion_method": "equal_weight_empirical_percentile_fusion",
+  "if_weight": 0.5,
+  "lstm_weight": 0.5,
+  "validation_percentile": 0.99,
+  "fusion_window_threshold": 0.9588273352643015,
+  "fusion_last_threshold": 0.9829835988414194,
+  "alignment": "hostname + IF timestamp == LSTM end_time",
+  "anomaly_test_used_for_threshold": false
+}

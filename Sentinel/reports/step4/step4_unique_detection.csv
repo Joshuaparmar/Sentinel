@@ -1,0 +1,3 @@
+comparison,IF_only_rows,LSTM_only_rows
+IF vs Window-MSE,19626,84628
+IF vs Last-step-MSE,21128,66295

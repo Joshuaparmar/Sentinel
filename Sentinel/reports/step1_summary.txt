@@ -1,0 +1,18 @@
+SENTINEL STEP 1 DATASET FORENSICS
+
+Rows: 863,995
+
+Columns: 37
+
+Hosts: 100
+
+XID-31 records: 1,105
+
+Anomalous labels: 1,105
+
+Normal labels: 862,890
+
+
+IMPORTANT:
+
+This analysis does NOT use label or XID as telemetry features. They are used only to identify known events for retrospective forensic analysis.

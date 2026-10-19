@@ -1,0 +1,3 @@
+detector,events_detected,events_total,event_recall
+IF + LSTM Window-MSE Fusion,84,85,0.9882352941176471
+IF + LSTM Last-step Fusion,84,85,0.9882352941176471

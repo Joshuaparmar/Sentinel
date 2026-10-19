@@ -1,0 +1,29 @@
+{
+  "step": "5B",
+  "description": "SENTINEL failure risk scoring",
+  "rows_evaluated": 857977,
+  "hosts_evaluated": 100,
+  "weights": {
+    "current_evidence": 0.6,
+    "persistence": 0.25,
+    "detector_agreement": 0.15
+  },
+  "persistence_window_samples": 6,
+  "persistence_window_seconds": 60,
+  "risk_levels": {
+    "LOW": "0-24.999",
+    "MODERATE": "25-49.999",
+    "HIGH": "50-74.999",
+    "CRITICAL": "75-100"
+  },
+  "risk_statistics": {
+    "min": 0.03551484431571322,
+    "mean": 5.939661205582427,
+    "median": 0.5354438812454743,
+    "max": 40.59991165821869
+  },
+  "normal_mean_risk": 5.927590460661922,
+  "failure_mean_risk": 15.299917623249375,
+  "failure_rows": 1105,
+  "failure_rows_risk_ge_50": 0
+}

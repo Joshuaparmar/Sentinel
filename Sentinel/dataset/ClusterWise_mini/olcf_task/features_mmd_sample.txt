@@ -1,0 +1,9 @@
+input_power_sum
+gpu_power_sum
+cpu_power_sum
+gpu_core_temp_max
+gpu_mem_temp_max
+cpu_temp_max
+gpu_core_temp_avg
+gpu_mem_temp_avg
+cpu_temp_avg

@@ -1,0 +1,17 @@
+dataset,lstm_score,category,count
+normal_test,window_mse,both,1593
+normal_test,window_mse,IF_only,13637
+normal_test,window_mse,LSTM_only,11049
+normal_test,window_mse,neither,687821
+normal_test,last_step_mse,both,3438
+normal_test,last_step_mse,IF_only,11792
+normal_test,last_step_mse,LSTM_only,10080
+normal_test,last_step_mse,neither,688790
+anomaly_test,window_mse,both,13117
+anomaly_test,window_mse,IF_only,19626
+anomaly_test,window_mse,LSTM_only,84628
+anomaly_test,window_mse,neither,740606
+anomaly_test,last_step_mse,both,11615
+anomaly_test,last_step_mse,IF_only,21128
+anomaly_test,last_step_mse,LSTM_only,66295
+anomaly_test,last_step_mse,neither,758939

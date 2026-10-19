@@ -1,0 +1,6 @@
+cpu_power
+cpu_temp
+gpu_core_temp
+gpu_mem_temp
+gpu_power
+power

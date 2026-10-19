@@ -1,0 +1,7 @@
+Sentinel.zip filter=lfs diff=lfs merge=lfs -text
+Sentinel/dataset/ClusterWise_mini/failures.csv filter=lfs diff=lfs merge=lfs -text
+Sentinel/dataset/ClusterWise_mini/olcf_task/mmd_sample.parquet filter=lfs diff=lfs merge=lfs -text
+Sentinel/dataset/ClusterWise_mini/olcf_task/test_anomaly.csv filter=lfs diff=lfs merge=lfs -text
+Sentinel/reports/step4/step4_anomaly_aligned_scores.csv filter=lfs diff=lfs merge=lfs -text
+Sentinel/reports/step4/step4_normal_aligned_scores.csv filter=lfs diff=lfs merge=lfs -text
+Sentinel/reports/step5/step5b_risk_scores.csv filter=lfs diff=lfs merge=lfs -text

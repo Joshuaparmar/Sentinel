@@ -1,0 +1,2 @@
+threshold,validation_alarm_rate,normal_test_precision,normal_test_recall,normal_test_f1,normal_test_pr_auc,normal_test_fpr,anomaly_test_precision,anomaly_test_recall,anomaly_test_f1,anomaly_test_pr_auc,anomaly_test_fpr,total_xid31_events,detected_xid31_events,missed_xid31_events,event_recall
+0.01788995687313654,0.01,0.0,0.0,0.0,,0.021329166666666666,0.008319112627986349,0.24705882352941178,0.01609622357831432,0.004428290815843569,0.0377139612233309,85,84,1,0.9882352941176471

@@ -1,0 +1,27 @@
+{
+  "step": "5B_calibration",
+  "rows": 857977,
+  "normal_rows": 856872,
+  "failure_rows": 1105,
+  "failure_events": 85,
+  "failure_hosts": 85,
+  "normal_hosts": 15,
+  "normal_risk": {
+    "mean": 5.927590460661922,
+    "median": 0.5352215785662564,
+    "max": 40.59991165821869
+  },
+  "failure_risk": {
+    "mean": 15.299917623249378,
+    "median": 18.083540912382333,
+    "max": 40.595362780593774
+  },
+  "failure_host_max_risk": {
+    "mean": 39.411134562905545,
+    "median": 40.59830267921796
+  },
+  "normal_host_max_risk": {
+    "mean": 39.262512671976836,
+    "median": 40.59871687183201
+  }
+}

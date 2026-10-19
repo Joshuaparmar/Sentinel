@@ -1,0 +1,3 @@
+context_column,context_value,total_hosts,affected_hosts,unaffected_hosts,affected_fraction,affected_percent
+allocation_id,0,99,85,14,0.8585858585858586,85.85858585858585
+allocation_id,815920,1,0,1,0.0,0.0
